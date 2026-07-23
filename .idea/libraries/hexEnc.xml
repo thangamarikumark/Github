@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="hexEnc">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/hexEnc.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
